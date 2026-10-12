@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ozark Jackraptor</title>
+  <style>
+    body {
+      margin: 0;
+      background: #171b18;
+      color: #f3eee1;
+      font-family: Georgia, serif;
+      text-align: center;
+    }
+    main {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      box-sizing: border-box;
+    }
+    h1 {
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      margin-bottom: 12px;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #c6b99d;
+    }
+    a {
+      color: #e1c38c;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>OZARK JACKRAPTOR</h1>
+    <p>A New Standard in Heritage Poultry</p>
+    <p>Our breeding program website is coming soon.</p>
+    <a href="mailto:ozarkjackraptor@proton.me">
+      Contact Us
+    </a>
+  </main>
+</body>
+</html>
